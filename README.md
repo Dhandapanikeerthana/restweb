@@ -525,7 +525,10 @@ address br {
        
 
 ## OUTPUT:
-
+![alt text](<Screenshot (94).png>)
+![alt text](<Screenshot (95)-1.png>)
+![alt text](<Screenshot (96)-1.png>)
+![alt text](<Screenshot (97)-1.png>)
 
 
 ## RESULT:
